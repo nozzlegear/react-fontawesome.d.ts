@@ -8,7 +8,7 @@ declare interface IProps extends React.Props<any>
     
     name: string;
     
-    size?: "1x" | "2x" | "3x" | "4x" | "5x"
+    size?: "lg" | "2x" | "3x" | "4x" | "5x"
     
     spin?: boolean;
     
