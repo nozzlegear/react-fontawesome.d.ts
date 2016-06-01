@@ -1,6 +1,6 @@
 {
     "name": "react-fontawesome.d.ts",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Typescript/Typings definition for react-fontawesome.",
     "main": "react-fontawesome.d.ts",
     "scripts": {
