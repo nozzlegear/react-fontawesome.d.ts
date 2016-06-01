@@ -1,0 +1,11 @@
+{
+  "name": "react-fontawesome",
+  "main": "react-fontawesome.d.ts",
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for react-fontawesome.",
+  "ambientDevDependencies": {},
+  "dependencies": {},
+  "globalDependencies": {
+    "react": "registry:dt/react#0.14.0+20160526134601"
+  }
+}

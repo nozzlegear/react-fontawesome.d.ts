@@ -1,0 +1,24 @@
+{
+    "name": "react-fontawesome.d.ts",
+    "version": "1.0.0",
+    "description": "A Typescript/Typings definition for react-fontawesome.",
+    "main": "react-fontawesome.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nozzlegear/react-fontawesome.d.ts.git"
+    },
+    "author": "Joshua Harms <joshua@nozzlegear.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nozzlegear/react-fontawesome.d.ts/issues"
+    },
+    "homepage": "https://github.com/nozzlegear/react-fontawesome.d.ts#readme",
+    "typescript":{
+        "definitions":[
+            "react-fontawesome.d.ts"
+        ]
+    }
+}
